@@ -1,9 +1,12 @@
 body {
     text-align: center;
+    background-image:url("colors.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: 'Fascinate Inline', cursive;
     font-size: 70px;
     margin: 0.2em;
 }
